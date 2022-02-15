@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478146102464",
+    "project_id": "iconic-glider-333009",
+    "storage_bucket": "iconic-glider-333009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478146102464:android:116c6d74d70862b3689925",
+        "android_client_info": {
+          "package_name": "com.example.firstprojectiwm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478146102464-9odm5qv5ukr927aqetn4me88g8sd26c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcpI4Am7aBtOdg4_iBNpscYm6Aa5MwNeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478146102464-9odm5qv5ukr927aqetn4me88g8sd26c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
